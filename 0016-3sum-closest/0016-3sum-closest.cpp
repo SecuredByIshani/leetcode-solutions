@@ -2,8 +2,8 @@ class Solution {
 public:
     int threeSumClosest(vector<int>& nums, int target) {
         int n=nums.size();
-        int resSum=0;
-        int minDiff=INT_MAX;
+        int resSum=nums[0]+nums[2]+nums[3];
+        int minDiff=abs(resSum-target);
         sort(nums.begin(),nums.end());
 
         for(int i=0;i<n-2;i++){
