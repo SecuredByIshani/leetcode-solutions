@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0292-nim-game) |
 | [1903-largest-odd-number-in-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
@@ -142,4 +143,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
