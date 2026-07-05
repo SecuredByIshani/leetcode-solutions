@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0877-stone-game) |
+| [1301-number-of-paths-with-max-score](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -53,6 +54,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0877-stone-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -133,6 +135,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
