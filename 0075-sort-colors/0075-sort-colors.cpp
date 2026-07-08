@@ -13,20 +13,16 @@ public:
 
         int idx=0;
 
-        while(zero>0){
-            nums[idx]=0;
-            idx++;
-            zero--;
+        for(int i=0;i<zero;i++){
+            nums[idx++]=0;
         }
-        while(one>0){
-            nums[idx]=1;
-            idx++;
-            one--;
+
+        for(int i=0;i<one;i++){
+            nums[idx++]=1;
         }
-        while(two>0){
-            nums[idx]=2;
-            idx++;
-            two--;
+
+        for(int i=0;i<two;i++){
+            nums[idx++]=2;
         }
     }
 };
