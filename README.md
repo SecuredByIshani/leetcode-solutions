@@ -7,6 +7,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -61,6 +62,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -80,6 +82,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +132,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -145,6 +149,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
 | ------- |
