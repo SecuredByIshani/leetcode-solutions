@@ -43,6 +43,7 @@
 | [0292-nim-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -174,4 +175,8 @@
 | ------- |
 | [0292-nim-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0877-stone-game) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
