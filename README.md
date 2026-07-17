@@ -34,6 +34,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -57,6 +58,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0877-stone-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
@@ -128,6 +131,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Breadth-First Search
 |  |
