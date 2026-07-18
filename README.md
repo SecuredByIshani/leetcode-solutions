@@ -49,6 +49,7 @@
 | [0877-stone-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -120,6 +121,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1952-three-divisors) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Sorting
 |  |
@@ -196,6 +198,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
