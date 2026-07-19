@@ -18,6 +18,7 @@
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -144,6 +145,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
@@ -193,6 +195,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Brainteaser
 |  |
 | ------- |
@@ -223,4 +226,8 @@
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
