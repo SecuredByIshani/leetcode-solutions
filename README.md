@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -16,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -156,6 +158,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
