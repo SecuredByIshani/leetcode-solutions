@@ -63,6 +63,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2579-count-total-number-of-colored-cells](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2579-count-total-number-of-colored-cells) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -91,6 +92,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -137,6 +139,7 @@
 | [1952-three-divisors](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1952-three-divisors) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -241,4 +244,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
