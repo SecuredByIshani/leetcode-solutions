@@ -41,6 +41,7 @@
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -76,6 +77,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -113,6 +115,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -194,6 +197,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -263,6 +267,7 @@
 | [0292-nim-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Number Theory
 |  |
 | ------- |
@@ -304,12 +309,18 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
