@@ -53,6 +53,7 @@
 | [0877-stone-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1563-stone-game-v](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -74,6 +75,7 @@
 | [0877-stone-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -112,6 +114,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -267,6 +270,7 @@
 | [0292-nim-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Number Theory
 |  |
