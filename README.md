@@ -9,6 +9,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -31,6 +32,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -217,6 +219,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -228,6 +231,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1927-sum-game) |
